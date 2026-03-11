@@ -1,0 +1,22 @@
+
+
+.card{
+     text-align: center;
+     background-color:white;
+    border:2px solid black;
+
+     width:300px;
+    padding:20px;
+    margin:50px auto;
+    text-align:center;
+    
+}
+
+h2{
+    color:blue;
+}
+
+ul{
+    list-style-position: inside;
+    padding-left: 0;
+}
