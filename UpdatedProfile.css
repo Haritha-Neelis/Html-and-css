@@ -1,0 +1,69 @@
+body {
+    background-color: #f4f6f8;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 600px;
+    margin: 50px auto;
+    text-align: center;
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+}
+
+.profile-img {
+    width: 120px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.name {
+    color: #ff4d88;
+}
+
+#description {
+    color: #4caf50;
+    font-size: 18px;
+}
+
+ul {
+    list-style-position: inside;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+    margin: 20px auto;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+input {
+    padding: 10px;
+    width: 250px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #28a745;
+}
