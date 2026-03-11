@@ -1,0 +1,56 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.name {
+    color: hotpink;
+}
+
+#description {
+    color: yellowgreen;
+    font-size: 18px;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin: auto;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+input {
+    padding: 8px;
+    width: 200px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: yellowgreen;
+}
